@@ -1,0 +1,240 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+ADIR006388-PA_Anopheles_dirus       ---MYSYAVTLIFGAL-VFETG-AFRHHILSKSWDEAQSDCLEYLRIDAP
+AFAF019523-PA_Anopheles_faraut      ---MYSRVLFIMVGVLSCFLAS-AFRHHILIKSWDEAQTDCLEYLHINAS
+AMAM003344-PA_Anopheles_macula      ---MHLRLL--LCGVCCLLTVGGALKHHILTKSWDEAQSDCLEYLRIESS
+ASTE009136-PA_Anopheles_stephe      ---MHLRLLAILCGACCLLTAS-ALKHHILTKSWDEAQSDCLEYLRIESS
+AFUN002983-PA_Anopheles_funest      ---MH-HLLAILCGVCVLLPAS-ALKHHILTKSWDEAQSDCLEYLRIESS
+ACUA024897-PA_Anopheles_culici      ----MDRLLAVLCGACLLLSAASALKHHILTKSWTEAQSDCLQYLKITPS
+AMIN002699-PA_Anopheles_minimu      --------------------MTSALKHHILTKSWNEAQTDCLEYLQIKSS
+AGAP013182-PA_Anopheles_gambia      ----MDRLLLVLLSSASLLLTVYGIKHHIVTKSWSEAQSDCLQYLRVESP
+ACOM037005-PA_Anopheles_coluzz      ----MDRLLLVLLSSASLLLTVYGIKHHIVTKSWSEAQSDCLQYLRVESP
+AARA004441-PA_Anopheles_arabie      ------MVVSFVGQSASLLLTVYGIQHHIVTKSWSEAQSDCLQYLRVESP
+AMEM014586-PA_Anopheles_merus       ---------MLDVCRASLLLTVYGIKHHILTKSWSEAQSDCLQYLRIESP
+AMEC010595-PA_Anopheles_melas       --------------------------------------------------
+ASIS014207-PA_Anopheles_sinens      ---MWFHSVSVLLCWSTLLQITDAFRHHILTKSWDEAQEDCLSYLRVATN
+AATE001273-PA_Anopheles_atropa      MMSRLVFSCALVLVLGALAAHANDTKGVVVEKSFLQSVQDCVEYLRIPKL
+AAEL000344-PA_Aedes_aegypti         ---MNHQLFITLAILSIITSLAAQDWNSPQLKSFSSAQQECAVYLLLSNE
+                                                                                      
+
+ADIR006388-PA_Anopheles_dirus       ESEP-FLERRYEDDQSSRELIFCVVLNLRVYEPTLRTIRVEAMRQFFQPD
+AFAF019523-PA_Anopheles_faraut      DAEP-FLDHRYDDDQTTRELIFCIVMTLRVYEPTLRTIRVEAMRQFFQPD
+AMAM003344-PA_Anopheles_macula      RAKP-YISHQYEDDQTTKELLFCILLNLRVYQATQNVPRVELMRQFFTPD
+ASTE009136-PA_Anopheles_stephe      AASTSYLSHQYGDDQATKELMFCILLNLRVFEATQNVPRVELMRQFFTPD
+AFUN002983-PA_Anopheles_funest      RAVP-FLAHRYEDDQTTKELIFCIALNLRIYDATQNVLRVELLRQFFNPD
+ACUA024897-PA_Anopheles_culici      RAVP-FNEYHYEEDQTSKQLIFCIVVNLRIYESKQNVLRVDLLGQFFNPD
+AMIN002699-PA_Anopheles_minimu      RVVP-YLAHHYEDNKTTKQLIFCIVLNLRIYESTENVLRVELLRQFFNPD
+AGAP013182-PA_Anopheles_gambia      ---GRYLSHRYRDNQTSKQLIFCIILNLRIYDPTQNVLRLKAMGQFFNPD
+ACOM037005-PA_Anopheles_coluzz      ---GRYLSHRYRDNQTSKQLIFCIMLNLRIYDPTQNVLRLEAMGQFFHPD
+AARA004441-PA_Anopheles_arabie      ---GRYLSHRYRDNQTSKQLIFCIMLNLRIYDPTQNVLRLEALGQFFHPD
+AMEM014586-PA_Anopheles_merus       ---GRYLSHRYRDNQALKQLIFCIMLNLRIYDPTQNVLRLEAMGQFFNPD
+AMEC010595-PA_Anopheles_melas       -------------------MIFYIMLNLRIFDPTQNTMRLEALGQLFNPD
+ASIS014207-PA_Anopheles_sinens      RSEH-FRAHHYGEDSLSKELVFCIALNLRAYDPSQNVVRVEVLAKFFQPD
+AATE001273-PA_Anopheles_atropa      RLVQ-YLAYEFPPDEETKCLIYCVGTDLRWWNETCG-LQFPAIVNFFQPV
+AAEL000344-PA_Aedes_aegypti         TVQQ-CEVNGYPDDFNCRKLVNCILVQIYAYDERIG-IRDNVITNFFEPP
+                                                       ::  :   :  ::      :   : ::* * 
+
+ADIR006388-PA_Anopheles_dirus       DNDTMYVNRTNECLLTV---PSVLDSSPCSTPYSGAIEAVYEMFRCFYHY
+AFAF019523-PA_Anopheles_faraut      HNDTMYVARTNACLQKV---PPLMENIRCHLPYSGAIESVYEMFRCFYHY
+AMAM003344-PA_Anopheles_macula      AGDTMHVNRTNECLRRVQI-PLKENSSCG-KPYLGAIESANGMFRCFYYY
+ASTE009136-PA_Anopheles_stephe      EGDTLHVNRTNECLRRVHI-PLKENSSCGYKPYLSAIESANGLFRCFYHY
+AFUN002983-PA_Anopheles_funest      VNDTLYVNRTNDCLLRVQT-PPKENSYYGRNPYVGAIESVHGIFRCFYYY
+ACUA024897-PA_Anopheles_culici      VDDTLYVNRTNECLLRVKN-PPKEDYSYRMSPYVRPIESMYEMFRCFYFY
+AMIN002699-PA_Anopheles_minimu      VDDTLYVNRTNECLLRVRN-SLNEDCFYGKTPYFGAIESVHEMFRCFYHY
+AGAP013182-PA_Anopheles_gambia      KTDTLYVNRTNACLLRVKV-PPLVDSSEDSQLYSGVMGTLYEVFRCFYHC
+ACOM037005-PA_Anopheles_coluzz      KTDTLYVNRTNACLLRVKV-PPLVDSSEDSQLYSGVMGTLYEVIRCFYHC
+AARA004441-PA_Anopheles_arabie      KTDTLYVNRTNACLLRVKV-PPLVDSSEDSQPYSGVMGTLYEVFRCFYHC
+AMEM014586-PA_Anopheles_merus       KTDTLYVNRTNACLLRVKV-APLVDSSEDSLPYSGVMETLYEVFRCFYHC
+AMEC010595-PA_Anopheles_melas       KTDTLYVNRTNACLLRVKL-PPLVDSSEDSQPYSGALGTLCEVFRCFYHC
+ASIS014207-PA_Anopheles_sinens      PEDTDNVERTNECLRTVDQKPPAIVGCRRSEFYSSAMDTVFEAFRCFYYH
+AATE001273-PA_Anopheles_atropa      LGDRQYEKRTKECVERTTH----------AGKQQNSCCQAYETFQCYLRE
+AAEL000344-PA_Aedes_aegypti         KSCSDYVSRTQECLQTTVP----------KQCGGQPFERAYLSFQCYYRN
+                                            **: *:  .                          ::*:   
+
+ADIR006388-PA_Anopheles_dirus       YGNINRNAPELPPTVLELH----QVQQECAELIGLPQQLLCN--RTHLKE
+AFAF019523-PA_Anopheles_faraut      YGNLNQNAPDLPPTVLELH----QVQQECAEIVGLPKHLLHSH-REHLKD
+AMAM003344-PA_Anopheles_macula      YGNLNRSAVELLPTMLERQ----QIQQECAKIVGIPEGLLRC--GSHLKN
+ASTE009136-PA_Anopheles_stephe      YGNLNRNAVALPPTGLERQ----QIRQECAKIVGIPE-------GNKIR-
+AFUN002983-PA_Anopheles_funest      YGNFNRNAPALPPTALEVK----QIQQECAKIIGIPVGLLRC--GSHLK-
+ACUA024897-PA_Anopheles_culici      YGNLNRDAPKLPLTALELQ----QIQQECANIVGIPEGLLRC--GAHLKD
+AMIN002699-PA_Anopheles_minimu      YGNLNRNAPQLPLTALEMQ----QIRQECAKIVGIPEGLLRI--F-----
+AGAP013182-PA_Anopheles_gambia      YGNINAIAPKLPPTVLELE----KIQQECARMVGVSERLLDG--GLQLSS
+ACOM037005-PA_Anopheles_coluzz      YGNINANAPKLPPTVLELE----QIQQECARIVGVSERLLDG--SLLLRS
+AARA004441-PA_Anopheles_arabie      YGNINANAPKLPPTVLELE----QIQQECARIVGVSERLFDG--GLQLRS
+AMEM014586-PA_Anopheles_merus       YGNINTNAPKLPPTVLELE----QIQQECARIIGVSERLLDG--GLQLRS
+AMEC010595-PA_Anopheles_melas       YGNINAYSPKLPTTVLELK----QLQ------------------------
+ASIS014207-PA_Anopheles_sinens      FGNLIPVAPPLPPTELELE----QVHEECARIVRLPVELLRE--RLHLKM
+AATE001273-PA_Anopheles_atropa      FGNLVTCPQYVPPTKLQAT----QAALDCLTMLRVPVDLLRCYSRGELPD
+AAEL000344-PA_Aedes_aegypti         YGVLLKDAVRFLPYDPSSPKYSVKQIVESFSIANTSCKAIRNLSEGRGFT
+                                    :* :   .  .     .      :                          
+
+ADIR006388-PA_Anopheles_dirus       HPLYQKFARCVVLRSGLSGLEFGTDSIKTAKVINTLS-------------
+AFAF019523-PA_Anopheles_faraut      HPLHQKFSRCIVLRSGLSGLEFGNHSIKTSKVINMLSFLLLRQSSGPLFA
+AMAM003344-PA_Anopheles_macula      HPLYSNFSHCVMLRSGSSTMALDENLRNSLNVIKA---------------
+ASTE009136-PA_Anopheles_stephe      ----------------DITMHLDCLF------------------------
+AFUN002983-PA_Anopheles_funest      ----------------AHPAYISESNRSKTH-------------------
+ACUA024897-PA_Anopheles_culici      HPAYSKFSHCVALRSGSAALKLSDNSIRTLIKP-----------------
+AMIN002699-PA_Anopheles_minimu      --------------------------------------------------
+AGAP013182-PA_Anopheles_gambia      HPRYSKLPRCIMLRSGGSVDYLTHRNNSSRRFKLKKNVENDTL-------
+ACOM037005-PA_Anopheles_coluzz      HPRYSELSRCIRLRSGESVD------------------------------
+AARA004441-PA_Anopheles_arabie      HPRYSELSRCIMLRSGESVDYLTHRNNSSRRFKLKKKTWKMIHFN-----
+AMEM014586-PA_Anopheles_merus       HPRYTTQEATAKS-GGGKVNSK----------------------------
+AMEC010595-PA_Anopheles_melas       --------------------------------------------------
+ASIS014207-PA_Anopheles_sinens      HPLGDRFRRCVALRTGFSEMELEGSVQYGTKGTLPLLLAIAE--------
+AATE001273-PA_Anopheles_atropa      EPETRYVYHCFDLRTGLYTPETGLQLSRFYVRDLATDDLRYLSKETKNCR
+AAEL000344-PA_Aedes_aegypti         VENVADALYAFGIRNGFYDLQHGLYVDRLYTQVGVPNLLSEATRQCLACV
+                                                                                      
+
+ADIR006388-PA_Anopheles_dirus       --------------------------------------------------
+AFAF019523-PA_Anopheles_faraut      FHVVKLAGPMRAQMPLQHIRRYIFEIGFFHHH------------------
+AMAM003344-PA_Anopheles_macula      --------------------------------------------------
+ASTE009136-PA_Anopheles_stephe      --------------------------------------------------
+AFUN002983-PA_Anopheles_funest      --------------------------------------------------
+ACUA024897-PA_Anopheles_culici      --------------------------------------------------
+AMIN002699-PA_Anopheles_minimu      --------------------------------------------------
+AGAP013182-PA_Anopheles_gambia      --------------------------------------------------
+ACOM037005-PA_Anopheles_coluzz      --------------------------------------------------
+AARA004441-PA_Anopheles_arabie      --------------------------------------------------
+AMEM014586-PA_Anopheles_merus       --------------------------------------------------
+AMEC010595-PA_Anopheles_melas       --------------------------------------------------
+ASIS014207-PA_Anopheles_sinens      --------------------------------------------------
+AATE001273-PA_Anopheles_atropa      DRIRQSGCNACSEVYQTHQECLAGLGEEGYTAGVISEAAKIALANLGVCC
+AAEL000344-PA_Aedes_aegypti         SQQYNTEPLRITQLVLQCVEKDIATQLWFTQTAQAILASNNSYCN-----
+                                                                                      
+
+ADIR006388-PA_Anopheles_dirus       --------------------------------------------------
+AFAF019523-PA_Anopheles_faraut      --------------------------------------------------
+AMAM003344-PA_Anopheles_macula      --------------------------------------------------
+ASTE009136-PA_Anopheles_stephe      --------------------------------------------------
+AFUN002983-PA_Anopheles_funest      --------------------------------------------------
+ACUA024897-PA_Anopheles_culici      --------------------------------------------------
+AMIN002699-PA_Anopheles_minimu      --------------------------------------------------
+AGAP013182-PA_Anopheles_gambia      --------------------------------------------------
+ACOM037005-PA_Anopheles_coluzz      --------------------------------------------------
+AARA004441-PA_Anopheles_arabie      --------------------------------------------------
+AMEM014586-PA_Anopheles_merus       --------------------------------------------------
+AMEC010595-PA_Anopheles_melas       --------------------------------------------------
+ASIS014207-PA_Anopheles_sinens      --------------------------------------------------
+AATE001273-PA_Anopheles_atropa      SEPAVEPVPVVIVPEPVGYSYASYQPMAEHPCKVCTAQKPVPVLAPSPQV
+AAEL000344-PA_Aedes_aegypti         ---VCEPLRSCVDPTPSTQCGVSLVTTPKNPYPSI---------------
+                                                                                      
+
+ADIR006388-PA_Anopheles_dirus       --------------------------------------------------
+AFAF019523-PA_Anopheles_faraut      --------------------------------------------------
+AMAM003344-PA_Anopheles_macula      --------------------------------------------------
+ASTE009136-PA_Anopheles_stephe      --------------------------------------------------
+AFUN002983-PA_Anopheles_funest      --------------------------------------------------
+ACUA024897-PA_Anopheles_culici      --------------------------------------------------
+AMIN002699-PA_Anopheles_minimu      --------------------------------------------------
+AGAP013182-PA_Anopheles_gambia      --------------------------------------------------
+ACOM037005-PA_Anopheles_coluzz      --------------------------------------------------
+AARA004441-PA_Anopheles_arabie      --------------------------------------------------
+AMEM014586-PA_Anopheles_merus       --------------------------------------------------
+AMEC010595-PA_Anopheles_melas       --------------------------------------------------
+ASIS014207-PA_Anopheles_sinens      --------------------------------------------------
+AATE001273-PA_Anopheles_atropa      VNYNPPPRSQCSCEAEPNVVAPAGLYPSVTAGGMKSYPFVKDQPGHQSKL
+AAEL000344-PA_Aedes_aegypti         --------------------------------------------------
+                                                                                      
+
+ADIR006388-PA_Anopheles_dirus       --------------------------------------------------
+AFAF019523-PA_Anopheles_faraut      --------------------------------------------------
+AMAM003344-PA_Anopheles_macula      --------------------------------------------------
+ASTE009136-PA_Anopheles_stephe      --------------------------------------------------
+AFUN002983-PA_Anopheles_funest      --------------------------------------------------
+ACUA024897-PA_Anopheles_culici      --------------------------------------------------
+AMIN002699-PA_Anopheles_minimu      --------------------------------------------------
+AGAP013182-PA_Anopheles_gambia      --------------------------------------------------
+ACOM037005-PA_Anopheles_coluzz      --------------------------------------------------
+AARA004441-PA_Anopheles_arabie      --------------------------------------------------
+AMEM014586-PA_Anopheles_merus       --------------------------------------------------
+AMEC010595-PA_Anopheles_melas       --------------------------------------------------
+ASIS014207-PA_Anopheles_sinens      --------------------------------------------------
+AATE001273-PA_Anopheles_atropa      HHYTTPEVSPCPSPPAAFKPTFSAFSVRPFGQRAHGPYPTPGYSGRAKVV
+AAEL000344-PA_Aedes_aegypti         --------------------------------------------------
+                                                                                      
+
+ADIR006388-PA_Anopheles_dirus       --------------------------------------------------
+AFAF019523-PA_Anopheles_faraut      --------------------------------------------------
+AMAM003344-PA_Anopheles_macula      --------------------------------------------------
+ASTE009136-PA_Anopheles_stephe      --------------------------------------------------
+AFUN002983-PA_Anopheles_funest      --------------------------------------------------
+ACUA024897-PA_Anopheles_culici      --------------------------------------------------
+AMIN002699-PA_Anopheles_minimu      --------------------------------------------------
+AGAP013182-PA_Anopheles_gambia      --------------------------------------------------
+ACOM037005-PA_Anopheles_coluzz      --------------------------------------------------
+AARA004441-PA_Anopheles_arabie      --------------------------------------------------
+AMEM014586-PA_Anopheles_merus       --------------------------------------------------
+AMEC010595-PA_Anopheles_melas       --------------------------------------------------
+ASIS014207-PA_Anopheles_sinens      --------------------------------------------------
+AATE001273-PA_Anopheles_atropa      QFGVGLRRKVTRIGMLEVARVQPLQIEAGVGAVNSRAKVEAPQKAPCFRC
+AAEL000344-PA_Aedes_aegypti         --------------------------------------------------
+                                                                                      
+
+ADIR006388-PA_Anopheles_dirus       --------------------------------------------------
+AFAF019523-PA_Anopheles_faraut      --------------------------------------------------
+AMAM003344-PA_Anopheles_macula      --------------------------------------------------
+ASTE009136-PA_Anopheles_stephe      --------------------------------------------------
+AFUN002983-PA_Anopheles_funest      --------------------------------------------------
+ACUA024897-PA_Anopheles_culici      --------------------------------------------------
+AMIN002699-PA_Anopheles_minimu      --------------------------------------------------
+AGAP013182-PA_Anopheles_gambia      --------------------------------------------------
+ACOM037005-PA_Anopheles_coluzz      --------------------------------------------------
+AARA004441-PA_Anopheles_arabie      --------------------------------------------------
+AMEM014586-PA_Anopheles_merus       --------------------------------------------------
+AMEC010595-PA_Anopheles_melas       --------------------------------------------------
+ASIS014207-PA_Anopheles_sinens      --------------------------------------------------
+AATE001273-PA_Anopheles_atropa      VPEAPFAVAVKERLGNLEQVHAIVRHADVPGVIAREKLRAGNQVPVVLQV
+AAEL000344-PA_Aedes_aegypti         --------------------------------------------------
+                                                                                      
+
+ADIR006388-PA_Anopheles_dirus       --------------------------------------------------
+AFAF019523-PA_Anopheles_faraut      --------------------------------------------------
+AMAM003344-PA_Anopheles_macula      --------------------------------------------------
+ASTE009136-PA_Anopheles_stephe      --------------------------------------------------
+AFUN002983-PA_Anopheles_funest      --------------------------------------------------
+ACUA024897-PA_Anopheles_culici      --------------------------------------------------
+AMIN002699-PA_Anopheles_minimu      --------------------------------------------------
+AGAP013182-PA_Anopheles_gambia      --------------------------------------------------
+ACOM037005-PA_Anopheles_coluzz      --------------------------------------------------
+AARA004441-PA_Anopheles_arabie      --------------------------------------------------
+AMEM014586-PA_Anopheles_merus       --------------------------------------------------
+AMEC010595-PA_Anopheles_melas       --------------------------------------------------
+ASIS014207-PA_Anopheles_sinens      --------------------------------------------------
+AATE001273-PA_Anopheles_atropa      AHEALVCRTAAVRGIAGGEPQLETLGRTPLVVGVGPIRLEEVRHQGRLHA
+AAEL000344-PA_Aedes_aegypti         --------------------------------------------------
+                                                                                      
+
+ADIR006388-PA_Anopheles_dirus       --------------------------------------------------
+AFAF019523-PA_Anopheles_faraut      --------------------------------------------------
+AMAM003344-PA_Anopheles_macula      --------------------------------------------------
+ASTE009136-PA_Anopheles_stephe      --------------------------------------------------
+AFUN002983-PA_Anopheles_funest      --------------------------------------------------
+ACUA024897-PA_Anopheles_culici      --------------------------------------------------
+AMIN002699-PA_Anopheles_minimu      --------------------------------------------------
+AGAP013182-PA_Anopheles_gambia      --------------------------------------------------
+ACOM037005-PA_Anopheles_coluzz      --------------------------------------------------
+AARA004441-PA_Anopheles_arabie      --------------------------------------------------
+AMEM014586-PA_Anopheles_merus       --------------------------------------------------
+AMEC010595-PA_Anopheles_melas       --------------------------------------------------
+ASIS014207-PA_Anopheles_sinens      --------------------------------------------------
+AATE001273-PA_Anopheles_atropa      GRVVPPAQAQSDTPYQTLRFRVARETVGGVVGVPAGGNLQVLHALLHRLG
+AAEL000344-PA_Aedes_aegypti         --------------------------------------------------
+                                                                                      
+
+ADIR006388-PA_Anopheles_dirus       -----------
+AFAF019523-PA_Anopheles_faraut      -----------
+AMAM003344-PA_Anopheles_macula      -----------
+ASTE009136-PA_Anopheles_stephe      -----------
+AFUN002983-PA_Anopheles_funest      -----------
+ACUA024897-PA_Anopheles_culici      -----------
+AMIN002699-PA_Anopheles_minimu      -----------
+AGAP013182-PA_Anopheles_gambia      -----------
+ACOM037005-PA_Anopheles_coluzz      -----------
+AARA004441-PA_Anopheles_arabie      -----------
+AMEM014586-PA_Anopheles_merus       -----------
+AMEC010595-PA_Anopheles_melas       -----------
+ASIS014207-PA_Anopheles_sinens      -----------
+AATE001273-PA_Anopheles_atropa      HALLEVQMGHV
+AAEL000344-PA_Aedes_aegypti         -----------
+                                               

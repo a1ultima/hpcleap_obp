@@ -1,0 +1,79 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+ASIS015632-PA_Anopheles_sinens      -MIGKVFIT---FFAITAIVQLAE----------------AAKTVAECEK
+AATE005138-PA_Anopheles_atropa      MSLSKAFLTSFLAWCVIAMVQVTE----------------AAKTVEECER
+AGAP008281-PA_Anopheles_gambia      -MIRQVITSYFLTVCLLALVQG--------------------ETVQDCEN
+AMEM012916-PA_Anopheles_merus       -MIRQVIISFFLAVCCLALVQG--------------------ETVQDCEN
+ACOM030199-PA_Anopheles_coluzz      -MKRQVIISYFLAVCCLALVQG--------------------ETVQDCEN
+ACHR009978-PA_Anopheles_christ      -MLKKVKLFCFFALCFAALVQS--------------------ETVQDCED
+ACUA001093-PA_Anopheles_culici      --------------------------------------------------
+ASTE008615-PA_Anopheles_stephe      -MLKEAIFISLSTLCFVAAVQVIIPQILELKNLTIKIPSHQGGTVKECED
+ADAC010085-PA_Anopheles_darlin      -MFKQLLYAVGLVWCWMAFVQAGE-----------------PKTVEECEK
+                                                                                      
+
+ASIS015632-PA_Anopheles_sinens      KMPASLKGRLCELRQYKVIDGPDMDKHMDCVMKTIGFVDKDGRGDYHKLI
+AATE005138-PA_Anopheles_atropa      QIPASLKGRLCEVRQYKIIDGPDMDKHMDCVMKALKIVDKEGRGDYHKLY
+AGAP008281-PA_Anopheles_gambia      KLPTSLKSRLCEIRRYEIIEGPEMDKHIHCVMRALDFVYEDGRGDYHKLY
+AMEM012916-PA_Anopheles_merus       KLPPSLKSRLCEIRRYEIIEGPEMDKHIHCVMRALDFVYEDGRGDYHKLY
+ACOM030199-PA_Anopheles_coluzz      KLPPSLKSRLCEIRRYEIIEGPEMDKHIHCVMRALDFVYEDGRGDYHKLY
+ACHR009978-PA_Anopheles_christ      KLPPSLKSRLCEIRQYKIIEGPEMDKHIDCVMKALDFVYSDGRGDYHKLY
+ACUA001093-PA_Anopheles_culici      -LPPSLKSRLCEIRNYEIIEGPEMDKHIDCVMKAVDFVYKDGRGDYHKLY
+ASTE008615-PA_Anopheles_stephe      KMAASLKSKLCEVRQYKLFESQDMYNHIDCCMKAVGFVNNDGSGDYHKLI
+ADAC010085-PA_Anopheles_darlin      NIPSSLKDRICELRQYTPDTSPDMDKHMQCVLHVVGFVDRNGEVEFQELL
+                                     :..***.::**:*.*    . :* :*:.* ::.: :*  :*  ::::* 
+
+ASIS015632-PA_Anopheles_sinens      KPLNAIEKDRKHDMNLETCMGKTFRLPNEGSRANAFYKCMLQSNSAESFK
+AATE005138-PA_Anopheles_atropa      TPMNSIERDRKHDLNLETCIGKTFKLPNVGGRANAFYKCMLNSNSADSFK
+AGAP008281-PA_Anopheles_gambia      DPLNIIELDKRHDVNLEKCIGECVQVP-TSERAHVFYKCLLKSTTGRTFK
+AMEM012916-PA_Anopheles_merus       DPLNIIELDKRHDVNLEKCIGECVQVP-TSERAHVFYKCLLKSTTGRTFK
+ACOM030199-PA_Anopheles_coluzz      DPLNIIELDKRHDVNLEKCIGECVQVP-TSERAHVFYKCLLKSTTGRTFK
+ACHR009978-PA_Anopheles_christ      DPLNIIELDKRHDVNLETCIGECVRVP-TSQRAHVFYKCLLKSTTGRTFK
+ACUA001093-PA_Anopheles_culici      DPLNWIERDRRHDFNLEKCIGESVRVP-TSQRAHVFYKCLLKSTTGRTFK
+ASTE008615-PA_Anopheles_stephe      KLLDKIKKSRKHGENLETCVGQSKRAG-ANQRAYVYYKCLLNTNSAETFK
+ADAC010085-PA_Anopheles_darlin      GLLTIAEPRGKHAENIKKCVAESAKVN-ASKKANTFYTCFLTTDSVEAFK
+                                      :   :   :*  *::.*:.:  :    . :* .:*.*:* : :  :**
+
+ASIS015632-PA_Anopheles_sinens      KVFDLTELILAGK-------LPAGAQYDKKA-------------------
+AATE005138-PA_Anopheles_atropa      KAFDLIELIRAGK-------LSKFAKYSDEV-------------------
+AGAP008281-PA_Anopheles_gambia      KVFDLMELKQAGK-------VPQHQRYTAEF-------------------
+AMEM012916-PA_Anopheles_merus       KVFDLMELKQAGK-------VPQHQRYTAEF-------------------
+ACOM030199-PA_Anopheles_coluzz      KVFDLMELKKAGK-------VPQHQRYTAEFRSNVLAALDAVET------
+ACHR009978-PA_Anopheles_christ      KVFDLMELKKSGKRSNILTALDAVETYDGVYTDS----------------
+ACUA001093-PA_Anopheles_culici      KVFDLQELIKAGK-------LSKHAKYTAEVAQMMKDHDAKLCPNAAAQT
+ASTE008615-PA_Anopheles_stephe      MAFDLRELIKAGK-------LPEGSSYGPEV-------------------
+ADAC010085-PA_Anopheles_darlin      LSVDFVELIRAGK-------LKPNSQFKAGQ-------------------
+                                      .*: **  :**       :     :                       
+
+ASIS015632-PA_Anopheles_sinens      --------------------------------------------------
+AATE005138-PA_Anopheles_atropa      --------------------------------------------------
+AGAP008281-PA_Anopheles_gambia      --------------------------------------------------
+AMEM012916-PA_Anopheles_merus       --------------------------------------------------
+ACOM030199-PA_Anopheles_coluzz      --------------------------------------------------
+ACHR009978-PA_Anopheles_christ      --------------------------------------------------
+ACUA001093-PA_Anopheles_culici      VTDCVRLVPESARSTVCEVRLYRVTRGIDADQYIQCALAALGFVGENGSI
+ASTE008615-PA_Anopheles_stephe      --------------------------------------------------
+ADAC010085-PA_Anopheles_darlin      --------------------------------------------------
+                                                                                      
+
+ASIS015632-PA_Anopheles_sinens      --------------------------------------------------
+AATE005138-PA_Anopheles_atropa      --------------------------------------------------
+AGAP008281-PA_Anopheles_gambia      --------------------------------------------------
+AMEM012916-PA_Anopheles_merus       --------------------------------------------------
+ACOM030199-PA_Anopheles_coluzz      --------------HDGVYTDAVDVCLSKAKKLPGTERSGSFFSCMLRTE
+ACHR009978-PA_Anopheles_christ      ----------------------VDACLSRAKKLSGAERSGSFYNCMLRTE
+ACUA001093-PA_Anopheles_culici      QRNNLLTALDAVEVHDGVYTDSVDACLSKAKKLSGAERSGAFYCCMLSTE
+ASTE008615-PA_Anopheles_stephe      --------------------------------------------------
+ADAC010085-PA_Anopheles_darlin      --------------------------------------------------
+                                                                                      
+
+ASIS015632-PA_Anopheles_sinens      -------------------------------ANMMKKIDAKICK
+AATE005138-PA_Anopheles_atropa      -------------------------------PKMMKKIDAKICK
+AGAP008281-PA_Anopheles_gambia      -------------------------------VQIMKDYDKALNC
+AMEM012916-PA_Anopheles_merus       -------------------------------VQIMKDYDKALNC
+ACOM030199-PA_Anopheles_coluzz      SAQNFRDAVELQELRVASKWPEGERFDRSKVQQMMRELNSQLRC
+ACHR009978-PA_Anopheles_christ      SAQNFRDALELQELRMASKWPESDRFDRSKVQQFMRELNNQLQC
+ACUA001093-PA_Anopheles_culici      SSQNFKDAVELQELKLASKWPEGERFDRSKVQQMMREVNNQLKC
+ASTE008615-PA_Anopheles_stephe      -------------------------------DRLIREIDDKIC-
+ADAC010085-PA_Anopheles_darlin      ------------------------------IKALIKEIDDGLCD
+                                                                     :::. :  :  

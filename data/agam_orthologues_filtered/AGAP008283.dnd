@@ -1,0 +1,16 @@
+(
+(
+ASIS003042-PA_Anopheles_sinensis:0.17003,
+AATE019249-PA_Anopheles_atroparvus:0.07849)
+:0.04216,
+(
+AFAF010458-PA_Anopheles_farauti:0.22222,
+(
+AMEM012547-PA_Anopheles_merus:0.02464,
+(
+ACOM030198-PA_Anopheles_coluzzii:0.00437,
+AGAP008283-PA_Anopheles_gambiae:0.00155)
+:0.01678)
+:0.16960)
+:0.01360,
+ADAC010085-PA_Anopheles_darlingi:0.17086);

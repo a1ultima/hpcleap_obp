@@ -1,0 +1,57 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+ACOM023484-PA_Anopheles_coluzz      -----------------MQTLLVSISLFVM--------------------
+AGAP000279-PA_Anopheles_gambia      -------MPSRKRLCRLLLLLLLPVDLELISQDA----------------
+AQUA007332-PA_Anopheles_quadri      -----------------MQTLLVSISLFVMD-------------------
+AMEC004845-PA_Anopheles_melas       -----------------MQTLLVSISLFVM--------------------
+AMEM006682-PA_Anopheles_merus       -----------------MQTLLVSISLFVM--------------------
+AFAF005083-PA_Anopheles_faraut      -----------------MRTLLVSVALFAV--------------------
+ACUA022547-PA_Anopheles_culici      MFDFFDFENGLLLPTRWILIALREISFDLTSSGRRSMRLEMSAAYHPRPV
+ASIS019912-PA_Anopheles_sinens      -----------------MKTLLVSASLFAL--------------------
+AATE018827-PA_Anopheles_atropa      -----------------MKTLLVSASLLVL--------------------
+                                                     :   *    :                       
+
+ACOM023484-PA_Anopheles_coluzz      --------------------------THGAYVVRTFADATAYRDECVQQY
+AGAP000279-PA_Anopheles_gambia      -----DANVFPAYPVLRNSTPFSIFQTHGAYVVRTFADATAYRDECVQQY
+AQUA007332-PA_Anopheles_quadri      ------AKGFPAYAPVKKLFPIFLFQTHGAYVVRTFADATAYRDECVQQY
+AMEC004845-PA_Anopheles_melas       --------------------------THGAYVVRTFADATAYRDGCVQQY
+AMEM006682-PA_Anopheles_merus       --------------------------AHGAYVVRSFADATAYRDECVQQY
+AFAF005083-PA_Anopheles_faraut      --------------------------ARGEYVVRSFADATRYRDECVQQH
+ACUA022547-PA_Anopheles_culici      FLRVHAPPKYEECECIILSTYDWCSFTQGAYVVRTFADAARYKDECVKQY
+ASIS019912-PA_Anopheles_sinens      --------------------------THGVYVMRTFADAATYKDECVEQY
+AATE018827-PA_Anopheles_atropa      --------------------------THGAYVVRTFADAAAYRNECVEQY
+                                                              ::* **:*:****: *:: **:*:
+
+ACOM023484-PA_Anopheles_coluzz      AGRGSSLIDYMRQVALHT-DDADSRWCIVRCILQKADLLDGEGAP----H
+AGAP000279-PA_Anopheles_gambia      AGRGSSLIDYMRQVALHT-DNADSRWCIVRCILQKADLLDGEGAP----H
+AQUA007332-PA_Anopheles_quadri      AGRGSSLIDYMRQVALHT-DDADSRWCIVRCILQKADLLDGEGAP----H
+AMEC004845-PA_Anopheles_melas       AGRGSSLIDYMRQVALHT-DDADSRWCIVRCILQKADLLDGEGAP----H
+AMEM006682-PA_Anopheles_merus       AGRGSSLIDYMRQVALHT-DDADSRWCIVRCILQKADLLDGEGAP----H
+AFAF005083-PA_Anopheles_faraut      AVRGSSLIDYMRQVALHT-DDVDSRWCVVRCILQKSDLLVDRGADEPQLH
+ACUA022547-PA_Anopheles_culici      AVRGSSLIDYMRQVSLHT-DDDDSRWCIVRCILHKSELLDIAQTDT--LH
+ASIS019912-PA_Anopheles_sinens      HAKGNSLIDYMRQVYRDDDADDDSHWCVIRCILLKSGLLLLDG-AVDAFQ
+AATE018827-PA_Anopheles_atropa      QAQGNSLIDYMRRLFLD--EADDSHWCVVRCILLKSGLLLLNGGARDVFQ
+                                      :*.*******::  .     **:**::**** *: **          :
+
+ACOM023484-PA_Anopheles_coluzz      EANVHAQMQHSNAIVEDPDDIRSETSRCLREPPAPDSGGG---CLRAYTF
+AGAP000279-PA_Anopheles_gambia      EANVHAQMQHSNAIVEDPDDIRSETSRCLREPPAPDSGGG---CLRAYTF
+AQUA007332-PA_Anopheles_quadri      EANVHAQMQHSNAIVEDPDDIRSETSRCLREPPASDSGGGG--CLRAYTF
+AMEC004845-PA_Anopheles_melas       EANVHAQMQHSNAIVEDPDDIRSETSRCLREPPASDSGG----CLRAYTF
+AMEM006682-PA_Anopheles_merus       EANVHAQMQHSNAIVEDPDDIRSETSRCLREPPASGGGGGGGGCLRAYTF
+AFAF005083-PA_Anopheles_faraut      EPNVHAQMQHSNAIVEDPEDIRSETDRCLREWDADGGGGGG--CRRAYNF
+ACUA022547-PA_Anopheles_culici      EENVHAQMQYSNAIVEDPEDIRSETNRCLQEPNATVDG-----CLRAYTF
+ASIS019912-PA_Anopheles_sinens      VDNIHEQMQQSNAIVEDPEDIRSETNRCLRESDRVWDT-----CLRAYTF
+AATE018827-PA_Anopheles_atropa      VENIHEQMQQSNAIVEDPDDIRSETERCLREPARVNDA-----CLRAYTF
+                                      *:* *** ********:******.***:*     .      * ***.*
+
+ACOM023484-PA_Anopheles_coluzz      FACIQSTEYDLF
+AGAP000279-PA_Anopheles_gambia      FACIQSTEYDLF
+AQUA007332-PA_Anopheles_quadri      FACIQSTEYDLF
+AMEC004845-PA_Anopheles_melas       FACIQSTEYDLF
+AMEM006682-PA_Anopheles_merus       FACIQSTEYDLF
+AFAF005083-PA_Anopheles_faraut      FACIQSTEYDLF
+ACUA022547-PA_Anopheles_culici      FACIQSTEYDLF
+ASIS019912-PA_Anopheles_sinens      FSCIQSTEYDLF
+AATE018827-PA_Anopheles_atropa      FSCIQGTEYDLF
+                                    *:***.******

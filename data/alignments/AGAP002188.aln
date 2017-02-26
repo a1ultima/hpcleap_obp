@@ -1,0 +1,156 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+AMIN003079-PA_Anopheles_minimu      ------------------------------------MVA-----------
+ACUA019079-PA_Anopheles_culici      ------------------------------------MFS-----------
+AEPI004855-PA_Anopheles_epirot      ------------------------------------MAS-----------
+AALB002737-PA_Anopheles_albima      ------------------------------------MLL-----------
+ACHR009823-PA_Anopheles_christ      ------------------------------------MVA-----------
+AMEM011230-PA_Anopheles_merus       ------------------------------------MAP-----------
+AQUA002943-PA_Anopheles_quadri      ----------------------MFDPYVTIALSSRCMAP-----------
+AARA006752-PA_Anopheles_arabie      --------------------------------------------------
+ACOM042075-PA_Anopheles_coluzz      --------------------------------------------------
+AGAP002188-PA_Anopheles_gambia      ------------------------------------MAP-----------
+AFUN005089-PA_Anopheles_funest      ------------------------------------MVS-----------
+ASTE011561-PA_Anopheles_stephe      MPILNDGRNERVHVRIDVLAELFEEAELLLVRGLTRIVARRGVGRQALFS
+                                                                                      
+
+AMIN003079-PA_Anopheles_minimu      --VKRNFVLLS-----------------LLLIG----------SSLWPSG
+ACUA019079-PA_Anopheles_culici      --VKNNFVLLP-----------------LLLIGF---------ELLWPYG
+AEPI004855-PA_Anopheles_epirot      --PEHSWVLCS-----------------LVLIG----------VSLMSCR
+AALB002737-PA_Anopheles_albima      --RALLASVC------------------VLLVG----------SLEVQGR
+ACHR009823-PA_Anopheles_christ      --FKYRFVLLP-----------------LVLIGA---------SSLMPYG
+AMEM011230-PA_Anopheles_merus       --VRYHFVLWP-----------------LILIGV---------SSLVPP-
+AQUA002943-PA_Anopheles_quadri      --VRYHFVLWP-----------------LILIGV---------SSLVPP-
+AARA006752-PA_Anopheles_arabie      -----MFDPYV-----------------TIALSS---------RC-----
+ACOM042075-PA_Anopheles_coluzz      -----MFDPYV-----------------TIALSS---------RCLVPP-
+AGAP002188-PA_Anopheles_gambia      --VRYHFVLWL-----------------LILIGV---------SSLVPP-
+AFUN005089-PA_Anopheles_funest      --AKYIVVLLP-----------------LLLIG----------FTVWPYG
+ASTE011561-PA_Anopheles_stephe      LLAEAIVVLPESQLQVVPVDVGTSFVTVQVQVGGETPDEALRFRTVREHA
+                                                                 : :.                 
+
+AMIN003079-PA_Anopheles_minimu      ----------HCNLVDISK---------------VSLDTRYYVFFSCVRD
+ACUA019079-PA_Anopheles_culici      ----------HCQLVDISK---------------VSLDTRYYTFFGCVRD
+AEPI004855-PA_Anopheles_epirot      ----------CSLDVDTSK---------------VTLGGDFYTLFGCARD
+AALB002737-PA_Anopheles_albima      ----------LSR-VDTST---------------VNIDSFYYTILGCARD
+ACHR009823-PA_Anopheles_christ      ----------GCQLVDTSK---------------VTLSGAFYTLFGCARD
+AMEM011230-PA_Anopheles_merus       -----------GRGLDISK---------------VTLDTAFYSLFGCARD
+AQUA002943-PA_Anopheles_quadri      -----------GECLDISK---------------VTLDTAFYSLFGCARD
+AARA006752-PA_Anopheles_arabie      ----------------------------------------------CARD
+ACOM042075-PA_Anopheles_coluzz      -----------GECLDISK---------------VTLDAAFYPLFGCARD
+AGAP002188-PA_Anopheles_gambia      -----------GECLDISK---------------VTLDAAFYPLFGCARD
+AFUN005089-PA_Anopheles_funest      ----------DCQLVDLSK---------------VTLDGRYFTLFSCIRD
+ASTE011561-PA_Anopheles_stephe      GKVQREAFLRDAQLVEAGHGRLQKLQKVGHDKGGVTLDSRYFVLFSCARD
+                                                                                  * **
+
+AMIN003079-PA_Anopheles_minimu      MNVPEDLVALYAEDILPDDQVTCCVIRCVGMRLGIYDDMNGLDVDKQYER
+ACUA019079-PA_Anopheles_culici      MNVPEDLVELYKLDIMPDDQVTCCVIRCVGMRLGIYDDKNGLDVDKQYER
+AEPI004855-PA_Anopheles_epirot      LNVPDSLMYLYKNRIYPDDQLTCCVFRCLGIRLGIYDDINGLNVDKQYER
+AALB002737-PA_Anopheles_albima      LLIPSELSHLYQLRIYPNDQLTWCVFRCLGQRLGIYDDSNGLDLDKQYNR
+ACHR009823-PA_Anopheles_christ      LEVPNHLIKLYEKLIFPDDQLTCCVFRCFGMRLGIYDDVNGLDVDKQYER
+AMEM011230-PA_Anopheles_merus       LNVPEDLIQLYKERIFPDDQLTCCVFRCFGMRLGIYDDVKGFDVDKQYER
+AQUA002943-PA_Anopheles_quadri      LDVPEDLIELYKERIFPDDQLTCCVFRCFGMRLGIYDDVKGFDVDKQYER
+AARA006752-PA_Anopheles_arabie      LYVPEDLIELYKERIFPDDQLTCCVFRCFGMRLGIYDDVKGFDVDKQYER
+ACOM042075-PA_Anopheles_coluzz      LVVPEDLIELYKKRIFPDDQLTCCVFRCLGMRLGIYDDVKGFDVDKQYER
+AGAP002188-PA_Anopheles_gambia      LVVPEDLIELYKKRIFPDDQLTCCVFRCLGMRLGIYDDVKGFDVDKQYER
+AFUN005089-PA_Anopheles_funest      LEVPDHLIALYNEENFPDDQITCCVFRCLGIRLGIYDDINGLNVDKQYER
+ASTE011561-PA_Anopheles_stephe      LEIPEDLIALYKEDIFPDDQLTCCVFRCLGMRLGIYDDINGFDVDKQYER
+                                    : :*. *  **     *:**:* **:**.* ******* :*:::****:*
+
+AMIN003079-PA_Anopheles_minimu      VKDRLTIDEATYKR------------------------------------
+ACUA019079-PA_Anopheles_culici      VKERLTIDEATYKR------------------------------------
+AEPI004855-PA_Anopheles_epirot      LKSQLSVDEDTYKRGVRNCIRNLLRGRTLNDCERAFLILRRCQGDTITSN
+AALB002737-PA_Anopheles_albima      VKNKVSIDEVTYKRTIQNCIQRQTANRLLGDCERAYLILTRCLAPTAML-
+ACHR009823-PA_Anopheles_christ      VKDRLSIDEETYKR------------------------------------
+AMEM011230-PA_Anopheles_merus       VKDRLSVDEDTYKR------------------------------------
+AQUA002943-PA_Anopheles_quadri      VKDRLSVDEDTYKR------------------------------------
+AARA006752-PA_Anopheles_arabie      VKDWLSVDEDTYKR------------------------------------
+ACOM042075-PA_Anopheles_coluzz      VKDRLSVDEDTYKR------------------------------------
+AGAP002188-PA_Anopheles_gambia      VKDRLSVDEDTYKR------------------------------------
+AFUN005089-PA_Anopheles_funest      LKGRLNITEAKYKR------------------------------------
+ASTE011561-PA_Anopheles_stephe      VKDSLCIDEETYKR------------------------------------
+                                    :*  : : * .***                                    
+
+AMIN003079-PA_Anopheles_minimu      --------------------------------------------------
+ACUA019079-PA_Anopheles_culici      --------------------------------------------------
+AEPI004855-PA_Anopheles_epirot      LDKQLNEIRSASFTPSSGSLGLDTSKVSLDGTFVTLFGCARDLNVPDSLI
+AALB002737-PA_Anopheles_albima      ------------LTVDYCSGGIDTSRVTLDSTFYTILGCAADLFASPDLI
+ACHR009823-PA_Anopheles_christ      --------------------------------------------------
+AMEM011230-PA_Anopheles_merus       --------------------------------------------------
+AQUA002943-PA_Anopheles_quadri      --------------------------------------------------
+AARA006752-PA_Anopheles_arabie      --------------------------------------------------
+ACOM042075-PA_Anopheles_coluzz      --------------------------------------------------
+AGAP002188-PA_Anopheles_gambia      --------------------------------------------------
+AFUN005089-PA_Anopheles_funest      --------------------------------------------------
+ASTE011561-PA_Anopheles_stephe      --------------------------------------------------
+                                                                                      
+
+AMIN003079-PA_Anopheles_minimu      --------------------------------------------------
+ACUA019079-PA_Anopheles_culici      --------------------------------------------------
+AEPI004855-PA_Anopheles_epirot      ALYKERIYPDDQLTCCVFRCIGQRLGIYDDINGLDVDKQYERVKDRLSVD
+AALB002737-PA_Anopheles_albima      ALYHLRIYPDEPTTWCVFRCLGQRLKTYDDTNGFNVDLQYERLKDSLTIS
+ACHR009823-PA_Anopheles_christ      --------------------------------------------------
+AMEM011230-PA_Anopheles_merus       --------------------------------------------------
+AQUA002943-PA_Anopheles_quadri      --------------------------------------------------
+AARA006752-PA_Anopheles_arabie      --------------------------------------------------
+ACOM042075-PA_Anopheles_coluzz      --------------------------------------------------
+AGAP002188-PA_Anopheles_gambia      --------------------------------------------------
+AFUN005089-PA_Anopheles_funest      --------------------------------------------------
+ASTE011561-PA_Anopheles_stephe      --------------------------------------------------
+                                                                                      
+
+AMIN003079-PA_Anopheles_minimu      ------GLRNCIRNVQRGRNLNACERAYLIITRCQGG------TVR-NSI
+ACUA019079-PA_Anopheles_culici      ------GVRNCIRNIQRGRNLNDCERAYLIITRCQGGT---CHSVRRNGP
+AEPI004855-PA_Anopheles_epirot      EDTYKRGVRNCIRNVLRGRTLNDCERAFLIMRRCQGDTITNSLNERLSEL
+AALB002737-PA_Anopheles_albima      EQKYKQGLRNCIQRVTEGRRLGICEKAYRILRGCQGDTIERAHQK---QL
+ACHR009823-PA_Anopheles_christ      ------GIRNCIRNVLRGRTLNNCEKAYLILNQCQGDTITNSLNQQLLEL
+AMEM011230-PA_Anopheles_merus       ------GVKNCIRNVLRGRTLNNCEKAYLILNQCQ----------DAGEL
+AQUA002943-PA_Anopheles_quadri      ------GVKNCIRNVLRGRTLNNCEKAYLILNQCQ----------DAGEL
+AARA006752-PA_Anopheles_arabie      ------GVKNCIRNVLRGRTLNNCEKAYLILNQCQ----------VT---
+ACOM042075-PA_Anopheles_coluzz      ------GVKNCIRNVLRGRTLNNCEKAYLILNQCQ----------DAGEL
+AGAP002188-PA_Anopheles_gambia      ------GVKNCIRNVLRGRTLNNCEKAYLILNQCQGNTITNSLNQQLNEI
+AFUN005089-PA_Anopheles_funest      ------GLKNCIRNVLRGRTYQTKQMPVPHQTASAVKS------VRMKNR
+ASTE011561-PA_Anopheles_stephe      ------GLRNCIRNVLRGRTLNACEKAHSVRNGLAFET------TKIFAG
+                                          *::***:.: .**     : .                       
+
+AMIN003079-PA_Anopheles_minimu      NQQLNEIKICD---------------------------------------
+ACUA019079-PA_Anopheles_culici      RHTVGSRRTTKPSLKES---------------------------------
+AEPI004855-PA_Anopheles_epirot      RNCGSSLDTSKVSLRGTFFTLFGCARDLNVPDSLIALYKKCVFPNDQLTC
+AALB002737-PA_Anopheles_albima      NDCLGSIDISTVNLSATYYNILRCANDLYASKELIALYHLRIYPDEPTTW
+ACHR009823-PA_Anopheles_christ      SDCD----------------------------------------------
+AMEM011230-PA_Anopheles_merus       K-------------------------------------------------
+AQUA002943-PA_Anopheles_quadri      K-------------------------------------------------
+AARA006752-PA_Anopheles_arabie      --------------------------------------------------
+ACOM042075-PA_Anopheles_coluzz      K-------------------------------------------------
+AGAP002188-PA_Anopheles_gambia      RCN-----------------------------------------------
+AFUN005089-PA_Anopheles_funest      KSHFLTSPGAIPNDTA----------------------------------
+ASTE011561-PA_Anopheles_stephe      SRKVIPLSTSTGSLV-----------------------------------
+                                                                                      
+
+AMIN003079-PA_Anopheles_minimu      --------------------------------------------------
+ACUA019079-PA_Anopheles_culici      --------------------------------------------------
+AEPI004855-PA_Anopheles_epirot      CVFRCLGIRLGIYDDINGLNVDKQYERLKNRLSVDEVTYKRGVRNCIRNV
+AALB002737-PA_Anopheles_albima      CVFRCLGQRLKIYDDTDGFNVDLQYERLKDSLMMSEQKYKQGLRNCIRRV
+ACHR009823-PA_Anopheles_christ      --------------------------------------------------
+AMEM011230-PA_Anopheles_merus       --------------------------------------------------
+AQUA002943-PA_Anopheles_quadri      --------------------------------------------------
+AARA006752-PA_Anopheles_arabie      --------------------------------------------------
+ACOM042075-PA_Anopheles_coluzz      --------------------------------------------------
+AGAP002188-PA_Anopheles_gambia      --------------------------------------------------
+AFUN005089-PA_Anopheles_funest      --------------------------------------------------
+ASTE011561-PA_Anopheles_stephe      --------------------------------------------------
+                                                                                      
+
+AMIN003079-PA_Anopheles_minimu      ------------------------------------------
+ACUA019079-PA_Anopheles_culici      ------------------------------------------
+AEPI004855-PA_Anopheles_epirot      LRDRTLNSCERAFLIIRRCQGDTIPRSLNAQLRELGTCAEVC
+AALB002737-PA_Anopheles_albima      TEGRRLGICEKPFRILRGCQGDTVDSTHLRQLNEIRVCD---
+ACHR009823-PA_Anopheles_christ      ------------------------------------------
+AMEM011230-PA_Anopheles_merus       ------------------------------------------
+AQUA002943-PA_Anopheles_quadri      ------------------------------------------
+AARA006752-PA_Anopheles_arabie      ------------------------------------------
+ACOM042075-PA_Anopheles_coluzz      ------------------------------------------
+AGAP002188-PA_Anopheles_gambia      ------------------------------------------
+AFUN005089-PA_Anopheles_funest      ------------------------------------------
+ASTE011561-PA_Anopheles_stephe      ------------------------------------------
+                                                                              

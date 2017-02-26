@@ -1,0 +1,132 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+ASTE008718-PA_Anopheles_stephe      --------------------------------------------------
+AMAM008266-PA_Anopheles_macula      --------------------------------------------------
+ACUA011194-PA_Anopheles_culici      --------------------------------------------------
+AFUN004349-PA_Anopheles_funest      --------------------------------------------------
+AMIN005912-PA_Anopheles_minimu      --------------------------------------------------
+ACOM030039-PA_Anopheles_coluzz      --------------------------------------------------
+AMEC006485-PA_Anopheles_melas       --------------------------------------------------
+AMEM000680-PA_Anopheles_merus       --------------------------------------------------
+AGAP008398-PA_Anopheles_gambia      --------------------------------------------------
+AARA011170-PA_Anopheles_arabie      --------------------------------------------------
+AQUA008728-PA_Anopheles_quadri      --------------------------------------------------
+ACHR008260-PA_Anopheles_christ      --------------------------------------------------
+AEPI007898-PA_Anopheles_epirot      --------------------------------------------------
+AFAF003455-PA_Anopheles_faraut      --------------------------------------------------
+ADIR011150-PA_Anopheles_dirus       --------------------------------------------------
+AATE014284-PA_Anopheles_atropa      --------------------------------------------------
+ADAC007879-PA_Anopheles_darlin      MFLKAIKQELVPAERLINHGASGRSRWCRFRVCYVLRRIKAKRILDGASH
+AALB001009-PA_Anopheles_albima      --------------------------------------------------
+AAEL001826-PA_Aedes_aegypti         --------------------------------------------------
+CPIJ001876-PA_Culex_quinquefas      --------------------------------------------------
+ASIS010822-PA_Anopheles_sinens      --------------------------------------------------
+ASIS017907-PA_Anopheles_sinens      --------------------------------------------------
+AATE016469-PA_Anopheles_atropa      --------------------------------------------------
+AATE001885-PA_Anopheles_atropa      --------------------------------------------------
+                                                                                      
+
+ASTE008718-PA_Anopheles_stephe      -----------------------MQQKNVQIVLLMLLG-VAAS--TMAFF
+AMAM008266-PA_Anopheles_macula      ------------------------MQKNLQIVLLTLLG-VAT---TMAFF
+ACUA011194-PA_Anopheles_culici      ------------------------MQKHLQIVFLLLLG-VVT---TMAFF
+AFUN004349-PA_Anopheles_funest      ------------------------MHK-LQIVILLILG-AVT---TMAFF
+AMIN005912-PA_Anopheles_minimu      ------------------------MQN-VQIVFLVLLG-AVT---TMAFF
+ACOM030039-PA_Anopheles_coluzz      ------------------------MQS-LQIVFVVLLAAVSTM----AFF
+AMEC006485-PA_Anopheles_melas       ------------------------MQS-LPIVFVVLLAAVSTMVLKSAFF
+AMEM000680-PA_Anopheles_merus       ------------------------MQS-LQIVFVVLLAAVSTM----AFF
+AGAP008398-PA_Anopheles_gambia      ------------------------MQS-LQIVFVVLLAAVSTM----AFF
+AARA011170-PA_Anopheles_arabie      ------------------------MQS-LQIVFVVLLAAVSTM----AFF
+AQUA008728-PA_Anopheles_quadri      ------------------------MQS-LQIVFVVLLAAVSTM----AFF
+ACHR008260-PA_Anopheles_christ      ------------------------MQS-LQIVFLVLVAAVSAM----AFF
+AEPI007898-PA_Anopheles_epirot      ------------------------MQS-LPIVFVVLLAAVSTM----AFF
+AFAF003455-PA_Anopheles_faraut      ------------------------MQS-LQIAFVVLLAIVSTT----AFF
+ADIR011150-PA_Anopheles_dirus       ------------------------MQS-IQIAFFVLLAAVSTM----AFF
+AATE014284-PA_Anopheles_atropa      ------------------------MQS-LQVAFVVLLGAICAT----AFF
+ADAC007879-PA_Anopheles_darlin      SAANLWSRKILRHLYKRTSHRDFNMQSLRFVTVAILLLGIANT---KAFF
+AALB001009-PA_Anopheles_albima      ------------------------MQSLRFVSVAVLLLGISSS---LAFF
+AAEL001826-PA_Aedes_aegypti         ------------------------MKC---LVLIS-LLAVGSQ----AFF
+CPIJ001876-PA_Culex_quinquefas      ------------------------MKC---LVLIVAALAVGTH----AFF
+ASIS010822-PA_Anopheles_sinens      ------------------------MQI-LKVAFVVLLGAVGT----MSRL
+ASIS017907-PA_Anopheles_sinens      ------------------------MQA-VKIAFVALLGAVLA----ADNF
+AATE016469-PA_Anopheles_atropa      ------------------------MQ------FDAGL---------QAQL
+AATE001885-PA_Anopheles_atropa      ------------------------MQS-LQVAFVVVLGVIYA----TAHL
+                                                             :      .                :
+
+ASTE008718-PA_Anopheles_stephe      TEEQHEIAKALADSCHAELGGDLPEDFATKMRLGDLTLNS-EISKCTIQC
+AMAM008266-PA_Anopheles_macula      TEEQHEIAKALADSCHAELGGDLPEDFATKMRQGDLTLDS-EIAKCTIQC
+ACUA011194-PA_Anopheles_culici      TAEQHEIAKSLVDSCHAELGGDLPEDFATKMRMGDLTLDSGEAAKCIVQC
+AFUN004349-PA_Anopheles_funest      TEEQHEIAKSLADSCHAEIGGDLPEDFATKMRLGDLTLDS-ETSKCTIQC
+AMIN005912-PA_Anopheles_minimu      TEEQHEIAKSLADSCYAELGGDLPEDFATKMRLGDLTLDS-EASKCTIQC
+ACOM030039-PA_Anopheles_coluzz      TEEQHEIAKSLAEQCRAELGGELPEDFATKMRLGDLTLDS-ETAKCTIQC
+AMEC006485-PA_Anopheles_melas       TEEQHEIAKSLAEQCRAELGGELPEDFATKMRLGDLTLDS-ETAKCTIQC
+AMEM000680-PA_Anopheles_merus       TEEQHEIAKSLAEQCRAELGGELPEDFATKMRLGDLTLDS-ETAKCTIQC
+AGAP008398-PA_Anopheles_gambia      TEEQHEIAKSLAEQCRAELGGELPEDFATKMRLGDLTLDS-ETAKCTIQC
+AARA011170-PA_Anopheles_arabie      TEEQHEIAKSLAEQCRAELGGELPEDFATKMRLGDLTLDN-ETAKCTIQC
+AQUA008728-PA_Anopheles_quadri      TEEQHEIAKSLAEQCRAELGGELPEDFATKMRLGDLTLDS-ETAKCTIQC
+ACHR008260-PA_Anopheles_christ      TEEQHDIAKSLAEACRGEVTGELPEDFATKMRLGDLTLDS-EASKCTIQC
+AEPI007898-PA_Anopheles_epirot      TEEQHDIAKSLVEACRGEVSGELPEDFATRMRQGDLTLDS-ETSKCTIQC
+AFAF003455-PA_Anopheles_faraut      TEEQHEIAIALSKACQGELGVDLPEDFSTRMRQGDLTLNS-EASKCTIQC
+ADIR011150-PA_Anopheles_dirus       TEEQHEIAKALSTACQAELGGELPEDFTTRMRQGDLTLNS-EAAKCTIQC
+AATE014284-PA_Anopheles_atropa      TEEQHDVAKMLADSCHKELGGDLPEDFATKMRLGDLTLDS-ETSKCTIQC
+ADAC007879-PA_Anopheles_darlin      TEEQHEIAKNLADACEKELGLEVPADFVTKMRLADPSLDN-EESKCTIQC
+AALB001009-PA_Anopheles_albima      TEEQHEIAKNLADACQKELGVELPADF------------------CAIQC
+AAEL001826-PA_Aedes_aegypti         TPEQHEVAKRLTMACATEIGEGLPDNVGNRFREGDLTLTD-DKSKCFMKC
+CPIJ001876-PA_Culex_quinquefas      TPQQVEFAKKLSADCEAEVGDGLPVNIGERFRMGDLTLTD-DKSKCYMRC
+ASIS010822-PA_Anopheles_sinens      TEEQHKQARIFAIECQDELGSVVSPNFAARMSHEMIVLTD-EGDKCHVQC
+ASIS017907-PA_Anopheles_sinens      TEEQYKLAKNLADACHAELGGDLPENFGTRIGHELFDLPS-EASKCNVHC
+AATE016469-PA_Anopheles_atropa      TQEQHDQAKTISESCHEELGGELPEDNFNRMSRERLILTS-ETAKCHVHC
+AATE001885-PA_Anopheles_atropa      TQEQHDQAKTISESCHEELGGELPDDYATRMSRERLILTS-ETAKCHVHC
+                                    * :* . *  :   *  *:   :. :                   * ::*
+
+ASTE008718-PA_Anopheles_stephe      MFAKVGFTD-EDGVANRAVLIAKLSKGNPTEKAEMFAELCEK-NEGESKC
+AMAM008266-PA_Anopheles_macula      MFAKVGFTD-EDGVANRAVLITKLSKGNPTEKAEMFADVCEK-NEGETKC
+ACUA011194-PA_Anopheles_culici      MFAKVGFTD-EDGVANRAVLITKLSKGNPVEKAEAFADVCEK-NEGDNKC
+AFUN004349-PA_Anopheles_funest      IFAKVGFTD-EDGVANRAVLITKLSKGNPIEKAEIFADVCEK-NEGDSKC
+AMIN005912-PA_Anopheles_minimu      MFAKVGFTD-EDGVANRAVLITKLSKGNPVEKAEMFADVCDK-NEGESKC
+ACOM030039-PA_Anopheles_coluzz      MFAKVGFTL-ESGAANRDVLIAKLSKGNPTAKAEAFADVCEN-NEGETAC
+AMEC006485-PA_Anopheles_melas       MFAKVGFTL-ESGAANRDVLIAKLSKGNPTAKAEAFADVCEN-NEGETAC
+AMEM000680-PA_Anopheles_merus       MFAKVGFTL-ESGAANRDVLIAKLSKGNPTAKAEAFADVCEN-NEGETAC
+AGAP008398-PA_Anopheles_gambia      MFAKVGFTL-ESGAANRDVLIAKLSKGNPTAKAEAFADVCEN-NEGETAC
+AARA011170-PA_Anopheles_arabie      MFAKVGFTL-ESGAANRDVLIAKLSKGNPTAKAEAFADVCEN-NEGETAC
+AQUA008728-PA_Anopheles_quadri      MFAKVGFTL-ESGAANRDVLIAKLSKGNPTAKAEAFADVCDN-NEGETAC
+ACHR008260-PA_Anopheles_christ      MFAKVGFTD-EDGVANRAVLVTKLSKGNPTEKAEMFADVCEK-NEGDTKC
+AEPI007898-PA_Anopheles_epirot      MFAKVGFTD-ADGVANRAVLITKLSKGNPTEKAEKFADVCEK-NEGDSKC
+AFAF003455-PA_Anopheles_faraut      MFAKVGFTD-ENGVASREVLVTKLAKGNPVEKAEKFADICDK-NEGETKC
+ADIR011150-PA_Anopheles_dirus       MFAKVGFTD-ENGLTNREVLVAKLSKGNPEEKAEKFADICNK-SEGANKC
+AATE014284-PA_Anopheles_atropa      IFAKVGYTD-ENGVINREKLVASLSKGNPVEKAEQFADECKA-NAGESKC
+ADAC007879-PA_Anopheles_darlin      MFAKVGFTDAETGVANRAVVAQKLSKGNPVEKAEQFADLCAN-NEGESKC
+AALB001009-PA_Anopheles_albima      IFAKVGFTDAETGVANRAVLAQKLSKGNPVEKAEQFADLCAN-NEGTSKC
+AAEL001826-PA_Aedes_aegypti         VFGKVGFID-DAGTVNKEVLVEKLSKGNTQAKAEMFAEKCNM-FEGANGC
+CPIJ001876-PA_Culex_quinquefas      IFGKVNFLDPETGAINKETLALKLAKGSTQEKAERFAVRCGS-FEGANAC
+ASIS010822-PA_Anopheles_sinens      IFLKIGIVH-PDGGVDEKGLFRELSAANTAEKAQLVTDLCVKKSGGTTRC
+ASIS017907-PA_Anopheles_sinens      IFHKLGTVN-EDGTTNREGLLKQLTKGHSVEKAEALADLCVKENEGETKC
+AATE016469-PA_Anopheles_atropa      LYTKTGVVN-EDGTVNRMGLIEQLRQGNPIEKAERFATLCEK-TEGATKC
+AATE001885-PA_Anopheles_atropa      LYTKIGVVY-EDGTVNRMGLIEQLRQGNPIEKAERFATLCEK-IEGATKC
+                                    :: * .      *  ..  :  .*  . .  **: .:  *     * . *
+
+ASTE008718-PA_Anopheles_stephe      DKAFSLYECYNKNK-SIFD------
+AMAM008266-PA_Anopheles_macula      DKAFSLYECYNKNK-SIFD------
+ACUA011194-PA_Anopheles_culici      DKAFSLYQCYHKNK-SIFD------
+AFUN004349-PA_Anopheles_funest      DKAFSLYQCYNKNK-SIFD------
+AMIN005912-PA_Anopheles_minimu      DKAFSLYQCYHKNK-SIFD------
+ACOM030039-PA_Anopheles_coluzz      DKAFSLYQCYHKNK-SIFD------
+AMEC006485-PA_Anopheles_melas       DKAFSLYQCYHKNK-SIFD------
+AMEM000680-PA_Anopheles_merus       DKAFSLYQCYHKNK-SIFD------
+AGAP008398-PA_Anopheles_gambia      DKAFSLYQCYHKNK-SIFD------
+AARA011170-PA_Anopheles_arabie      DKAFSLYQCYHKNK-SIFD------
+AQUA008728-PA_Anopheles_quadri      NKAFSLYQCYHKNK-SIFD------
+ACHR008260-PA_Anopheles_christ      DKAFSLYKCYHKNK-SIFD------
+AEPI007898-PA_Anopheles_epirot      DKAFSLYQCYHKNK-AIFD------
+AFAF003455-PA_Anopheles_faraut      DKAFSLYECYHKNK-SIFD------
+ADIR011150-PA_Anopheles_dirus       DRAFSLYECYHKSK-SIFD------
+AATE014284-PA_Anopheles_atropa      DKAFSLYQCYHKNK-SIFAQDPPKA
+ADAC007879-PA_Anopheles_darlin      DKAYSLHQCYHKNK-SIFD------
+AALB001009-PA_Anopheles_albima      DKAFSLHQCYHKNK-SIFN------
+AAEL001826-PA_Aedes_aegypti         EKAHGLFECYWKNK-EIFA------
+CPIJ001876-PA_Culex_quinquefas      EKAHGLYECYFTKKDEYFA------
+ASIS010822-PA_Anopheles_sinens      SKAYSLYECYHQNKHKLL-------
+ASIS017907-PA_Anopheles_sinens      QRAYSLYQCYHKNKSLLGQAAKA--
+AATE016469-PA_Anopheles_atropa      ERAYNVYQCYYKHKSSLVD------
+AATE001885-PA_Anopheles_atropa      ERAYNLYQCYYNHKSSLVE------
+                                    .:*..:.:**   *           

@@ -1,10 +1,11 @@
 ###########
 # Imports #
 ###########
+
 from Bio.Align.Applications import ClustalwCommandline
 from Bio import SeqIO
-import os
 from Bio import AlignIO
+import os
 import subprocess
 
 #############
@@ -102,7 +103,7 @@ def gen_phylogeny(alignment_fasta_path):
 #
 # Prepare file system
 #
-print "preparing directories..."
+print "Preparing directories..."
 if not os.path.isdir("../data/"):
 	os.makedirs("../data/")
 if not os.path.isdir("../data/alignments"):
@@ -110,15 +111,14 @@ if not os.path.isdir("../data/alignments"):
 if not os.path.isdir("../data/phylogenies"):
 	os.makedirs("../data/phylogenies")
 
-# #
-# # Make MSAs w/ ClustalW
-# #
-# print "Generating multiple sequence alignments of orthogroups..."
-# vb = get_obp_ids("../data/vb_agam_obp_geneIDs.txt")
-# for gene in vb:
-# 	print "\t"+gene
-# 	gen_multiple_sequence_alignment(gene)
-
+#
+# Make MSAs w/ ClustalW
+#
+print "Generating multiple sequence alignments (MSA) of orthogroups..."
+vb = get_obp_ids("../data/vb_agam_obp_geneIDs.txt")
+for gene in vb:
+	print "\t"+gene
+	gen_multiple_sequence_alignment(gene)
 
 #
 # Convert alignment to FASTA

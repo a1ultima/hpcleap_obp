@@ -1,0 +1,65 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+ASIS003042-PA_Anopheles_sinens      -----MKNID------------KKAGKSKTVEECEKNIPTSLKNRICELR
+AATE019249-PA_Anopheles_atropa      ----MIKKLLFAFGLVWCLVSLVQAGKPSTVEECEKNIPASLKNRICELR
+ADAC010085-PA_Anopheles_darlin      ----MFKQLLYAVGLVWCWMAFVQAGEPKTVEECEKNIPSSLKDRICELR
+ACOM030198-PA_Anopheles_coluzz      LNRIMFGKLLPCAILVWCLFSLGQARQEETVEECERNIPASLKGRVCELR
+AGAP008283-PA_Anopheles_gambia      ----MFGKLLPCAILVWCLFSLGQARQEETVEECERNIPASLKGRVCELR
+AMEM012547-PA_Anopheles_merus       ----MFGKLLPCAILVWCLFSLGQARQEETVEECERNIPASLKGRVCELR
+AFAF010458-PA_Anopheles_faraut      ----MQLKLALKFGLAWCLLAMAQAREENSPEECEKNIAASLKDRICELR
+                                           ::              :* : .: ****:**.:***.*:****
+
+ASIS003042-PA_Anopheles_sinens      QYQTVNSPDMDKHMQCILEVVGFVDGSGNVEFQELLGVLKVVDPAGDHAA
+AATE019249-PA_Anopheles_atropa      QYQTVDTPDMDKHMQCILEVVGFVDENGEVEFQELLGLLKTVEPAGDHAS
+ADAC010085-PA_Anopheles_darlin      QYTPDTSPDMDKHMQCVLHVVGFVDRNGEVEFQELLGLLTIAEPRGKHAE
+ACOM030198-PA_Anopheles_coluzz      QYTPVQGKDMDSHMQCVLEVLGFVEDNGELVFQELLGVLKMVDPDGDHAG
+AGAP008283-PA_Anopheles_gambia      QYTPVQGKDMDSHMQCVLEVLGFVEDNGELVFQELLGVLKMVDPDGDHAS
+AMEM012547-PA_Anopheles_merus       QYTPVEGKDMDSHMQCVLEVLGFVEYNGELLFQELLGVLKMVDPDGDHAG
+AFAF010458-PA_Anopheles_faraut      QYATVEGEDMDKHVQCVLE------------FQEVLGLLKIVDPNLDHAV
+                                    ** .    ***.*:**:*.            ***:**:*. .:*  .** 
+
+ASIS003042-PA_Anopheles_sinens      NIKKCVAEASKVDVTKKANTFYTCFLGTSSSSGFKKAVDYVELLRAGKLK
+AATE019249-PA_Anopheles_atropa      NIKKCVAEAAKVDVAKKANTFYTCFLSTSSASGFKKAVDYVELLRAGKLK
+ADAC010085-PA_Anopheles_darlin      NIKKCVAESAKVNASKKANTFYTCFLTTDSVEAFKLSVDFVELIRAGKLK
+ACOM030198-PA_Anopheles_coluzz      SMKKCNAEAEKVDTSSKANTFYTCFLGTSSAQAFKYAVDYVELLRAGKLD
+AGAP008283-PA_Anopheles_gambia      SMKKCNAEAEKVDTSSKANTFYTCFLGTSSAQAFKYAVDYVELLRAGKLD
+AMEM012547-PA_Anopheles_merus       SMKKCNAEAEKVNTSSKANTFYTCFLDTSSAQAFKYAVDYVELLRAGKLD
+AFAF010458-PA_Anopheles_faraut      NIKKCDGEAATVDASKKANTFYTCFLGTSSAPTYKVAMDFVKLIRAGKMH
+                                    .:*** .*: .*:.:.********** *.*   :* ::*:*:*:****:.
+
+ASIS003042-PA_Anopheles_sinens      ASSPFNFGVVQGLIKQIDDGLCNLVVQLFQLASICNAQTVTDCLRRVPES
+AATE019249-PA_Anopheles_atropa      TNSPFNVGVVQDLIKEIDDGLCK---------------------------
+ADAC010085-PA_Anopheles_darlin      PNSQFKAGQIKALIKEIDDGLCD---------------------------
+ACOM030198-PA_Anopheles_coluzz      MGTTFNAGQVSALMKQIDDGLCN---------------------------
+AGAP008283-PA_Anopheles_gambia      MGTTFNAGQVSALMKQIDDGLCN---------------------------
+AMEM012547-PA_Anopheles_merus       MGTTFNAGQVSAMMKEIDDGLCN---------------------------
+AFAF010458-PA_Anopheles_faraut      VEGKFDAGEVAARIKEVDDGLCK---------------------------
+                                        *. * :   :*::*****.                           
+
+ASIS003042-PA_Anopheles_sinens      SRGTICDIRQYHVTARGDDADRYLSCALAAVRFVGVDGAVQRNVLLSALD
+AATE019249-PA_Anopheles_atropa      --------------------------------------------------
+ADAC010085-PA_Anopheles_darlin      --------------------------------------------------
+ACOM030198-PA_Anopheles_coluzz      --------------------------------------------------
+AGAP008283-PA_Anopheles_gambia      --------------------------------------------------
+AMEM012547-PA_Anopheles_merus       --------------------------------------------------
+AFAF010458-PA_Anopheles_faraut      --------------------------------------------------
+                                                                                      
+
+ASIS003042-PA_Anopheles_sinens      EVETHDGVYTDSVDACLSKTRKLTGAGRPGAFFSCMLATESAQNFKDALE
+AATE019249-PA_Anopheles_atropa      --------------------------------------------------
+ADAC010085-PA_Anopheles_darlin      --------------------------------------------------
+ACOM030198-PA_Anopheles_coluzz      --------------------------------------------------
+AGAP008283-PA_Anopheles_gambia      --------------------------------------------------
+AMEM012547-PA_Anopheles_merus       --------------------------------------------------
+AFAF010458-PA_Anopheles_faraut      --------------------------------------------------
+                                                                                      
+
+ASIS003042-PA_Anopheles_sinens      LQELKVGGQWTEGEAFDGARVHQLMREVNRKLQCK
+AATE019249-PA_Anopheles_atropa      -----------------------------------
+ADAC010085-PA_Anopheles_darlin      -----------------------------------
+ACOM030198-PA_Anopheles_coluzz      -----------------------------------
+AGAP008283-PA_Anopheles_gambia      -----------------------------------
+AMEM012547-PA_Anopheles_merus       -----------------------------------
+AFAF010458-PA_Anopheles_faraut      -----------------------------------
+                                                                       
